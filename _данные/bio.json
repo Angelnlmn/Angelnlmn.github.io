@@ -1,39 +1,29 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Angela Dantsaranova",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://angeladantsaranova.github.io/images/Angela.png",
+    "email": "dantsaranovaav@mail.ru",
+    "phone": "89968768754",
+    "website": "https://angeladantsaranova.github.io",
+    "summary": "I am studying for a bachelor's degree in Information Systems and Technologies at the Faculty of Physics and Technology of Buryat State University. I finish my studies in 2023.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Ulan-Ude",
+      "countryCode": "Russia",
+      "region": "Republic of Buryatia"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "angeladantsaranova",
+        "url": "http://github.com/angeladantsaranova"
       },
       {
         "network": "instagram",
         "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "http://instagram.com/jlnlmn"
       }
     ]
   },
@@ -41,8 +31,6 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
